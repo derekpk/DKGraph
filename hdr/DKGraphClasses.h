@@ -26,7 +26,7 @@ using namespace std;
 #define GRAPH_TYPE_DIRECTED_ONLY "Directed"
 #define GRAPH_TYPE_BOTH "Directed and Weighted"
 
-void v_Lab8();
+void v_DKGraph();
 
 
 class cls_Vertex;

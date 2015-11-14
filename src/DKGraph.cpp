@@ -10,5 +10,5 @@
 
 int main()
 {
-	v_Lab8();
+	v_DKGraph();
 }

@@ -606,7 +606,7 @@ void cls_Graph::v_ResetTheVisitedFlags(bool b_resetBreathFirst, bool b_resetDept
 //**********************************************************************
 // The data used to create the graph is declared on GraphDataGlobals
 //**********************************************************************
-void v_Lab8()
+void v_DKGraph()
 {
 
 	cls_Graph obj_graph(GRAPH_TYPE_BOTH);//The main graph object
